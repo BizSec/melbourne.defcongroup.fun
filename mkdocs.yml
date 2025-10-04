@@ -1,1 +1,4 @@
-site_name: My Docs 0.2
+site_name: My Docs 0.3
+site_url: https://melbourne.defcongroup.fun
+theme:
+    name: terminal
