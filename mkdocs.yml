@@ -3,3 +3,6 @@ site_url: https://melbourne.defcongroup.fun
 theme:
     name: terminal
     palette: gruvbox_dark
+nav:
+    - Home: index.md
+    - Meetup: meetup.md

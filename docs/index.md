@@ -57,20 +57,21 @@
 ....................................................................................................
 ```
 
-# Welcome to MkDocs
+# Welcome to DEF CON Group Melbourne 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Founded in 2019 before the world all fell apart - we aim to be the gathering place for ethical hackers. We had some success during Covid with online meetings and we will probably alternate between online and IRL meets. 
 
-## Commands
+## Who are we?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+`Allen Baranov aka AldeBaran` - self-proclaimed world's only AAA-rated GRC Hacker. Originally from South Africa and now resident in Melbourne. 
 
-## Project layout
+`Hoodiepony` - TBD
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## How to get involved?
+
+The best way to get involved is to join our [discord](https://discord.gg/H8jCkw4) .
+
+
+## What is next?
+
+The best way to keep informed is to hang out on the Discord server. Alternatively the [meetup] page will have information about the next meetup. 
